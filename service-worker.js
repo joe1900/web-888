@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.aebf45488cc530a0b58d0ba1e4434f13.js"
+  "/precache-manifest.011249e393f8114cbea432cdb7770cc1.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "vue3.12.1"});
+workbox.core.setCacheNameDetails({prefix: "vant-app"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to

@@ -1,6 +1,6 @@
 {
-    "name": "vue3.12.1",
-    "short_name": "vue3.12.1",
+    "name": "vant-app",
+    "short_name": "vant-app",
     "icons": [{
             "src": "./img/icons/android-chrome-192x192.png",
             "sizes": "192x192",
@@ -12,8 +12,8 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/#/Tab1",
+    "start_url": "/#/",
     "display": "standalone",
-    "background_color": "red",
+    "background_color": "#ffffff",
     "theme_color": "#4DBA87"
 }
